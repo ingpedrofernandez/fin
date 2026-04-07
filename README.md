@@ -1,2 +1,2 @@
 # fin
-A new version of FinAlly for Gastown to work on
+LLM driven Trader Workstation for Simulated Trading built with Gastown.
